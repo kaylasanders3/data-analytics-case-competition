@@ -32,10 +32,10 @@ This project involved analyzing the **CompleteJourney_py** dataset from a grocer
    - Presented analysis and recommendations to the competition panel  
 
 ## Key Insights
-- Customers frequently purchase [example category] in combination with [example category]  
-- Sales for [specific product] peak during [time period]  
-- Opportunities identified to increase sales through [recommendation]  
-- Insights informed targeted marketing strategies and inventory decisions  
+- Low base coupon utilization: Only 1.81% of coupons were redeemed, indicating potential to improve engagement.
+- High-impact display locations: Certain in-store product placements consistently generate the greatest sales lift.
+- Effective coupon strategy: Type A (personalized) campaigns significantly outperform Types B and C; recommend increasing the frequency of Type A promotions.
+- Top-performing brands under promotion: Identified specific brands that drive the most sales when promoted, providing guidance for future marketing campaigns.
 
 ## Project Outcome
 - Successfully presented findings to the competition panel  
@@ -44,6 +44,4 @@ This project involved analyzing the **CompleteJourney_py** dataset from a grocer
 
 ## Repository Contents 
 - complete_journey_data_analysis.ipynb - Jupyter Notebook with data cleaning, aggregations, and analysis 
-- IDACaseCompetition.pptx - PowerPoint presentation summarizing key insigns and recommendations  
-- `Grocery_Analysis.ipynb` – Jupyter Notebook with data cleaning, analysis, and visualizations  
-- `Grocery_Insights_Presentation.pptx` – PowerPoint presentation summarizing key insights and recommendations  
+- case_competition_presentation.pptx - PowerPoint presentation summarizing key insigns and recommendations  
